@@ -21,3 +21,17 @@ check deze **boem kaka**
    1. uhh test
    2. noge eens
 4. we back to hallo
+
+
+mijn naam is ```Fillip``` Ilic[^1] 
+
+
+[I'm an inline-style link](https://www.google.com)
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[I'm a reference-style link][Arbitrary case-insensitive reference text]
+[You can use numbers for reference-style link definitions][1]
+
+
+[^1]:  Mijn achternaam is eigenlijk met een streepje erop naar rechts, maar dat is moeilijk om altijd te typen op computer omdat het niet in ons alfabet zit
+
+
