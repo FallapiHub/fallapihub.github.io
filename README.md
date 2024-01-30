@@ -38,7 +38,7 @@ Free viper
 ***
 
 
-[^1]:  Mijn achternaam is eigenlijk met een streepje erop naar rechts, maar dat is moeilijk om altijd te typen op computer omdat het niet in ons alfabet zit
+[^1]:  Mijn achternaam is eigenlijk met een streepje erop naar links, maar dat is moeilijk om altijd te typen op computer omdat het niet in ons alfabet zit
 
 
 >waaaaaaaaaaaaaaaaaaaaaaaaaaaaa waaaaaaaaaaaa
