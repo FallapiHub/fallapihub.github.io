@@ -27,7 +27,7 @@ mijn naam is ```Fillip``` Ilic[^1]
 
 ---
 
-[I'm an inline-style link](https://www.google.com)
+[luister dit]([https://www.google.com](https://www.youtube.com/watch?v=-XazLR5UFWM&ab_channel=RapperViperVEVOArchive))
 
 ___
 
@@ -35,9 +35,6 @@ ___
 
 ***
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 [^1]:  Mijn achternaam is eigenlijk met een streepje erop naar rechts, maar dat is moeilijk om altijd te typen op computer omdat het niet in ons alfabet zit
 
