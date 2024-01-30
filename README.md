@@ -27,7 +27,7 @@ mijn naam is ```Fillip``` Ilic[^1]
 
 ---
 
-[luister dit]([https://www.google.com](https://www.youtube.com/watch?v=-XazLR5UFWM&ab_channel=RapperViperVEVOArchive))
+[luister dit](https://www.youtube.com/watch?v=-XazLR5UFWM&ab_channel=RapperViperVEVOArchive)
 
 ___
 
