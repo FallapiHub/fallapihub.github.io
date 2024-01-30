@@ -25,13 +25,24 @@ check deze **boem kaka**
 
 mijn naam is ```Fillip``` Ilic[^1] 
 
+---
 
 [I'm an inline-style link](https://www.google.com)
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-[You can use numbers for reference-style link definitions][1]
 
+___
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
+***
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 [^1]:  Mijn achternaam is eigenlijk met een streepje erop naar rechts, maar dat is moeilijk om altijd te typen op computer omdat het niet in ons alfabet zit
+
+
+>waaaaaaaaaaaaaaaaaaaaaaaaaaaaa waaaaaaaaaaaa
+lyrics van radiohead
 
 
