@@ -1,5 +1,5 @@
 # FallapiHub
-[Tierlists](https://fallapihub.github.io/tierlists.md)
+[**Tierlists**](https://fallapihub.github.io/tierlists.md)
 
 welkom bij de FallapiHub
 
