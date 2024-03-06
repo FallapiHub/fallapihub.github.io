@@ -12,6 +12,7 @@ In SQLite type je DDL commands met een puntje ervoor
 
 
 
+
 Een klasse is een tabel,
 
 Een object is een dinges
@@ -23,6 +24,8 @@ ___
 **Selectie** is gedefinieerd in de *WHERE-statement*
 
 **Technische sleutels** heeft niks te maken met de werkelijkheid
+
+![WIN_20240306_09_37_33_Pro](https://github.com/FallapiHub/fallapihub.github.io/assets/158185370/a5e36b1f-e5b4-4dad-9cfa-efc478977998)
 
 
 
