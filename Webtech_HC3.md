@@ -7,6 +7,11 @@
 |Update| alter        |    update|
 |Delete| drop from        | delete|
 
+
+In SQLite type je DDL commands met een puntje ervoor
+
+
+
 ___
 
 **Projectie** is datgene wat we in een *SELECT-statement* definieren
