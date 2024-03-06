@@ -10,6 +10,7 @@
 
 
 **Projectie** is datgene wat we in een *SELECT-statement* definieren
+
 **Selectie** is gedefinieerd in de *WHERE-statement*
 
 
