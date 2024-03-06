@@ -7,7 +7,7 @@
 |Update| are neat        |    $1 |
 |Delete| are neat        | Drop From|
 
-
+___
 
 **Projectie** is datgene wat we in een *SELECT-statement* definieren
 
