@@ -12,6 +12,10 @@ In SQLite type je DDL commands met een puntje ervoor
 
 
 
+Een klasse is een tabel,
+
+Een object is een dinges
+
 ___
 
 **Projectie** is datgene wat we in een *SELECT-statement* definieren
