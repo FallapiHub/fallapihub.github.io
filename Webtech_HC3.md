@@ -7,6 +7,26 @@
 |Update| are neat        |    $1 |
 |Delete| are neat        | Drop From|
 
+
+
+**Projectie** is datgene wat we in een *SELECT-statement* definieren
+**Selectie** is gedefinieerd in de *WHERE-statement*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 check deze **boem kaka**
 *boem kaka*
 ~~boem kaka~~ 
