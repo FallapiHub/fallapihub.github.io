@@ -1,11 +1,11 @@
 #Hoorcollege Webtech week 3
 
-|               | DDL             | DML   |
+|               | DDL: Data Definition Language | DML: Data Manipulation Language |
 | :------------ |:---------------:| -----:|
-|Create      | some wordy text | $1600 |
-|Read | centered        |   $12 |
+|Create      | Create | Insert into |
+|Read | Scheme        |   Select |
 |Update| are neat        |    $1 |
-|Delete| are neat        |    $1 |
+|Delete| are neat        | Drop From|
 
 check deze **boem kaka**
 *boem kaka*
