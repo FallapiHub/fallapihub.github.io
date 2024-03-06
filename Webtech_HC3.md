@@ -3,9 +3,9 @@
 |               | DDL: Data Definition Language | DML: Data Manipulation Language |
 | :------------ |:---------------:| -----:|
 |Create      | Create | Insert into |
-|Read | Scheme        |   Select |
-|Update| alter        |    update|
-|Delete| drop from        | delete|
+|Read | *Scheme*        |   Select |
+|Update| Alter        |    Update|
+|Delete| drop from        | Delete|
 
 
 In SQLite type je DDL commands met een puntje ervoor
