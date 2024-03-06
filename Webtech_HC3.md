@@ -1,4 +1,4 @@
-#Hoorcollege Webtech week 3
+# Hoorcollege Webtech week 3
 
 |               | DDL: Data Definition Language | DML: Data Manipulation Language |
 | :------------ |:---------------:| -----:|
