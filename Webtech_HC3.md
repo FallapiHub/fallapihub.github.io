@@ -4,8 +4,8 @@
 | :------------ |:---------------:| -----:|
 |Create      | Create | Insert into |
 |Read | Scheme        |   Select |
-|Update| are neat        |    $1 |
-|Delete| are neat        | Drop From|
+|Update| alter        |    update|
+|Delete| drop from        | delete|
 
 ___
 
@@ -28,13 +28,6 @@ ___
 4. we back to hallo
 
 
-mijn naam is ```Fillip``` Ilic[^1] 
-
----
-
-[luister dit](https://www.youtube.com/watch?v=-XazLR5UFWM&ab_channel=RapperViperVEVOArchive)
-
-___
 
 Free viper
 
