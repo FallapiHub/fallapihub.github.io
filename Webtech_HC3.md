@@ -13,24 +13,11 @@
 
 **Selectie** is gedefinieerd in de *WHERE-statement*
 
+**Technische sleutels** heeft niks te maken met de werkelijkheid
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-check deze **boem kaka**
-*boem kaka*
-~~boem kaka~~ 
 
 
 ## test
