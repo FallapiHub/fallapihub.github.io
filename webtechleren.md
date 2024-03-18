@@ -36,6 +36,7 @@ Exceptions
 -------------------
 ## ~~Week 4:~~
 ~~Flask~~
+https://www.digitalocean.com/community/tutorials/how-to-create-your-first-web-application-using-flask-and-python-3#step-3-running-the-application
 
 
 
