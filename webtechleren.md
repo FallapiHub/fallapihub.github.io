@@ -8,6 +8,8 @@
 Bootstrap:
 gedownload nu alleen nog leren en oefenen
 
+https://www.youtube.com/watch?v=-qfEOE4vtxE&ab_channel=freeCodeCamp.org
+
 
 
 
@@ -36,6 +38,7 @@ Exceptions
 -------------------
 ## ~~Week 4:~~
 ~~Flask~~
+
 https://www.digitalocean.com/community/tutorials/how-to-create-your-first-web-application-using-flask-and-python-3#step-3-running-the-application
 
 
