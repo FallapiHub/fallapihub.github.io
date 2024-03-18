@@ -6,7 +6,10 @@
 ~~CSS~~
 
 Bootstrap:
+
 gedownload nu alleen nog leren en oefenen
+
+hulp vragen aan olivier
 
 https://www.youtube.com/watch?v=-qfEOE4vtxE&ab_channel=freeCodeCamp.org
 
