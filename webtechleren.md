@@ -1,3 +1,7 @@
+[**Home**](https://fallapihub.github.io)
+[**Tierlists**](https://fallapihub.github.io/tierlists)
+[**WebTech**](https://fallapihub.github.io/webtechleren)
+
 # webtech leerlijst:
 -------------------
 ## Week 1:
