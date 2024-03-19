@@ -67,3 +67,37 @@ Flask en SQL
 -------------------
 ## Week 8:
 Flask login
+
+
+
+
+
+
+
+# GITTINGLIST
+![image](https://github.com/FallapiHub/fallapihub.github.io/assets/158185370/2c99be46-300d-4982-97a6-c86c94faa8cc)
+
+Ik weet ongeveer wat git is
+
+Ik begrijp de github site
+
+Ik weet ongeveer wat een repository is
+
+Ik kan deze .md documentatie schrijven
+
+
+
+### nog te leren:
+hoe doe ik meerdere sites?:
+
+https://www.youtube.com/watch?v=Q-YA_dA8C20 
+
+
+
+
+~~Static markdown:~~
+
+~~https://harrywang.medium.com/how-to-host-static-markdown-web-pages-using-github-pages-61f80a3a5136~~
+
+
+
