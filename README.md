@@ -1,5 +1,8 @@
 # FallapiHub
-[**Tierlists**](https://fallapihub.github.io/tierlists.md)
+
+[**Home**](https://fallapihub.github.io)
+[**Tierlists**](https://fallapihub.github.io/tierlists)
+[**WebTech**](https://fallapihub.github.io/webtechleren)
 
 welkom bij de FallapiHub
 
