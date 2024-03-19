@@ -51,7 +51,7 @@ https://www.digitalocean.com/community/tutorials/how-to-create-your-first-web-ap
 ## Week 5:
 ~~Flask Forms~~
 
-WTFlask, WTF forms
+~~WTFlask, WTF forms~~
 
 
 
