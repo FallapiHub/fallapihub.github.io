@@ -105,3 +105,47 @@ https://www.youtube.com/watch?v=Q-YA_dA8C20
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#SQL in python Standaard text
+
+
+from flask import Flask
+import os
+from flask_sqlalchemy import SQLAlchemy
+
+basedir = os.path.abspath(os.path.dirname(__file__))
+
+app = Flask(__name__)
+
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///' + os.path.join(basedir, 'data.sqlite')
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+
+db = SQLAlchemy(app)
+
+class Cursist(db.Model):
+    # __tablename__ = 'cursisten'
+    id = db.Column(db.Integer, primary_key=True)
+    naam = db.Column(db.Text)
+    leeftijd = db.Column(db.Integer)
+
+    def __init__(self, naam, leeftijd):
+        self.naam = naam
+        self.leeftij = leeftijd
+
+    def __repr__(self):
+        return f'Cursist {self.naam} is {self.leeftijd} jaar oud'
+
+
