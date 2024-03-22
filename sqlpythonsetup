@@ -1,6 +1,6 @@
-# basic_model_app.py
+#basic_model_app.py
 
-*hier maak je de tabellen aan, en later import je dit bestand enzo*
+#hier maak je de tabellen aan, en later import je dit bestand enzo
 
 from flask import Flask
 import os
@@ -8,8 +8,7 @@ from flask_sqlalchemy import SQLAlchemy
 
 basedir = os.path.abspath(os.path.dirname(__file__))
 
-app = Flask(__name__)[Uploading basic_model_app.py…]()
-
+app = Flask(__name__)
 
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///' + os.path.join(basedir, 'data.sqlite')
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
@@ -34,8 +33,7 @@ class Cursist(db.Model):
 
 
 
-
-# setup_database.py
+# etup_database.py
 
 from basic_model_app import db, Cursist, app
 app.app_context().push()
