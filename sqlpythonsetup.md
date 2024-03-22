@@ -1,0 +1,52 @@
+# basic_model_app.py
+
+*hier maak je de tabellen aan, en later import je dit bestand enzo*
+
+from flask import Flask
+import os
+from flask_sqlalchemy import SQLAlchemy
+
+basedir = os.path.abspath(os.path.dirname(__file__))
+
+app = Flask(__name__)[Uploading basic_model_app.py…]()
+
+
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///' + os.path.join(basedir, 'data.sqlite')
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+
+db = SQLAlchemy(app)
+
+class Cursist(db.Model):
+    # __tablename__ = 'cursisten'
+    id = db.Column(db.Integer, primary_key=True)
+    naam = db.Column(db.Text)
+    leeftijd = db.Column(db.Integer)
+
+    def __init__(self, naam, leeftijd):
+        self.naam = naam
+        self.leeftijd = leeftijd
+
+    def __repr__(self):
+        return f'Cursist {self.naam} is {self.leeftijd} jaar oud'
+
+
+
+
+
+
+
+# setup_database.py
+
+from basic_model_app import db, Cursist, app
+app.app_context().push()
+db.create_all()
+
+fillip=Cursist("Fillip", 17)
+vyaakhyaa=Cursist("Vyaakhyaa", 18)
+
+db.session.add_all([fillip, vyaakhyaa])
+db.session.commit()
+
+print(fillip.id)
+print(vyaakhyaa.id)
+
