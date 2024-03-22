@@ -1,3 +1,14 @@
+#pip's om te installeren:
+pip install flask
+pip install flask_wtf
+pip install sqlalchemy
+pip install sqlite
+pip install Flask-SQLAlchemy
+pip install os
+pip install app
+
+
+
 #basic_model_app.py
 
 #hier maak je de tabellen aan, en later import je dit bestand enzo
