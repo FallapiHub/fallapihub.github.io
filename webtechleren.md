@@ -63,7 +63,7 @@ https://www.digitalocean.com/community/tutorials/how-to-create-your-first-web-ap
 
 -------------------
 ## Week 6:
-Flask en SQL
+~~Flask en SQL~~
 
 
 
