@@ -2,10 +2,9 @@
 pip install flask
 pip install flask_wtf
 pip install sqlalchemy
----pip install sqlite
 pip install Flask-SQLAlchemy
-???pip install os
 pip install app
+pip install flask_migrate
 
 
 
