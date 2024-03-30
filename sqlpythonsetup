@@ -58,3 +58,12 @@ db.session.commit()
 print(fillip.id)
 print(vyaakhyaa.id)
 
+
+
+
+
+# laatste migrate stap:
+
+flask db init
+flask db migrate
+flask db upgrade
